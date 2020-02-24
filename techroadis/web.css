@@ -1,0 +1,490 @@
+.heading {
+    font-size: 160px;
+    text-align: center;
+    padding-bottom: 20px;
+    font-weight: 800;
+    color: #9de3d0;
+    background-color: #fe9801;
+}
+body {
+    background-color: #ffd081;
+    min-height: 100%;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #42240c;
+  }
+  
+  li {
+    float: left;
+  }
+  .s4{
+    text-shadow: 2px 2px black;
+    
+  }
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 27px;
+    text-decoration: none;
+    font-style: italic;
+  }
+  .navimg {
+      width: 30px;
+      height: 30px;
+      text-overflow: ellipsis;
+      white-space: pre;
+  }
+  .belowgif {
+      text-align: center;
+      color: #b7472a;
+  }
+  .content {
+      color: #b7472a;
+      margin: 2px 35px;
+      line-height: 45px;
+      font-size: 25px;
+      
+  }
+  .table1 {
+    width: 400px; 
+    height:400px; 
+    border:3px solid #000; 
+    float: left; 
+    margin: 10px;
+    background-color: orangered;
+    font-size: 40px;
+    border-radius: 10px;
+
+
+}
+  .table2 {
+    width: 850px; 
+    height:450px; 
+    border:3px solid #000; 
+    float: left; 
+    margin-top: 10px;
+    background-color: orangered;
+    font-size: 40px;
+    line-height: 32px;
+    text-align: center;
+    border-radius: 10px;
+  }
+  
+
+  .tab12:hover, .tab13:hover,.tab22:hover, .tab23:hover, .tab24:hover, .tab25:hover, .tab26:hover {
+      background-color: white;
+  }
+  .tab11 {
+      text-align: center;
+      margin: 5px;
+      color: #207561;
+      background-color: #feb72b;
+      border-radius: 10px;
+        padding: 10px 0;
+    }
+  .tab12 {
+      padding-left: 40px;
+}
+.tab13 {
+    padding-left: 100px;
+}  
+    .tab21 {
+      margin: 5px;
+      color: #207561;
+      background-color: #feb72b;
+      border-radius: 10px;
+      padding: 15px 0;
+      text-align: center;
+  }
+  .giffs {
+    text-align: center;
+    margin-top: 50px;
+  }
+  .gen1 {
+    width: 120px;
+    height: 120px;
+    }
+ .gen1:hover{
+   background-color: white;
+ }
+ .wel1:hover{
+   background-color: white;
+ }
+  
+  .img22 {
+    width: 100px;
+    height: 110px;
+    border-radius: 15px;
+  }
+  .img22: :hover{
+  
+  }
+  .txt11, .txt22{
+    color: yellow;
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 800;
+    line-height: 30px;
+  }
+  .table3 {
+    width: 655px; 
+    height:800px; 
+    border:3px solid #000; 
+    border-radius: 10px;
+    float: left;
+    margin-top: 40px;
+    margin-left: 5px;
+  }
+  .table4 {
+    width: 655px; 
+    height:800px; 
+    border:3px solid #000; 
+    float: left;
+    margin-top: 40px;
+    margin-left: 5px;
+
+    border-radius: 10px;
+  }
+
+  .table3, .table4 {
+    background-color: #f64b3c;
+  }
+  .tab3h, .tab4h {
+    text-align: center;
+    font-size: 50px;
+    background-color: #feb72b;
+    color: #207561;
+    border-radius: 20px;
+    margin: 5px;
+    text-;
+  }
+  .table3:hover{
+    background-color: white;
+  }
+  .table4:hover{
+    background-color: white;
+  }
+  .tab3h:hover{
+    background-color: white;
+  }
+  .tab4h:hover{
+    background-color: white;
+  }
+  .img1{
+    width: 110px;
+    height: 110px;
+    border: 1px solid #000;
+    margin-left: 5px;
+    border-radius: 15px;
+    float: left;
+    background-color: #207561;
+  }
+  
+  .txt1 {
+    width: 200px;
+    height: 110px;
+    border: 1px solid #000;
+    border-radius: 15px;
+    float: left;
+    margin-left: 3px;
+    background-color: #207561
+  }
+  .txt1:hover {
+    background-color: white;  }
+  .txt2:hover{
+    background-color: white;
+  }
+  .txta {
+    width: 200px;
+    height: 140px;
+    border: 1px solid #000;
+    border-radius: 15px;
+    float: left;
+    margin-top: 5px;
+    margin-left: 3px;
+    background-color: orangered;
+  }
+  .txta:hover{
+    background-color: white;
+  }
+  .img2 {
+    width: 110px;
+    height: 110px;
+    border: 1px solid #000;
+    margin-left: 5px;
+    border-radius: 15px;
+    float: left;
+    background-color: #207561;
+  }
+  .img2:hover{
+    background-color: white;
+  }
+  .img1:hover{
+    background-color: white;
+  }
+ .txt2 {
+      width: 200px;
+      height: 110px;
+      border: 1px solid #000;
+      border-radius: 15px;
+      float: left;
+      margin-left: 3px;
+      background-color: #207561
+    }
+  .imga {
+    width: 110px;
+    height: 140px;
+    border: 1px solid #000;
+    margin-left: 5px;
+    margin-top: 5px;
+    border-radius: 15px;
+    float: left;
+    background-color: orangered;
+  }
+  .imga:hover{
+    background-color: white;
+  }
+  .imgb {
+    width: 110px;
+    height: 140px;
+    border: 1px solid #000;
+    margin-left: 5px;
+    border-radius: 15px;
+    margin-top: 5px;
+    float: left;
+    background-color: orangered;
+  }
+  .imgb:hover{
+    background-color: white;
+  }
+  .txtb{
+    width: 200px;
+    height: 140px;
+    border: 1px solid #000;
+    border-radius: 15px;
+    float: left;
+    margin-left: 3px;
+    margin-top: 5px;
+    background-color: orangered;
+  }
+  .txtb:hover{
+    background-color: white;
+  }
+  .imgc {
+    width: 110px;
+    height: 110px;
+    border: 1px solid #000;
+    margin-left: 5px;
+    border-radius: 15px;
+    margin-top: 5px;
+    float: left;
+    background-color: yellow;
+  }
+  .imgc:hover{
+    background-color: white;
+  }
+  .txtc{
+    width: 200px;
+    height: 110px;
+    border: 1px solid #000;
+    border-radius: 15px;
+    float: left;
+    margin-left: 3px;
+    margin-top: 5px;
+    background-color: yellow;
+  }
+  .txtc:hover{
+    background-color: white;
+  }
+  .txtd {
+    width: 200px;
+    height: 110px;
+    border: 1px solid #000;
+    border-radius: 15px;
+    float: left;
+    margin-left: 3px;
+    margin-top: 5px;
+    background-color: yellow;
+  }
+  .txtd:hover{
+    background-color: white;
+  }
+  .imgd{
+    width: 110px;
+    height: 110px;
+    border: 1px solid #000;
+    margin-left: 5px;
+    border-radius: 15px;
+    margin-top: 5px;
+    float: left;
+    background-color: yellow;
+  }
+  .imgd:hover{
+    background-color: white;
+  }
+  .imge{
+    width: 110px;
+    height: 110px;
+    border: 1px solid #000;
+    margin-left: 5px;
+    margin-top: 5px;
+    border-radius: 15px;
+    margin-top: 5px;
+    float: left;
+    background-color: #6e5773;
+  }
+  .imge:hover{
+    background-color: white;
+  }
+ 
+    .imgf{
+      width: 110px;
+      height: 110px;
+      border: 1px solid #000;
+      margin-left: 5px;
+      border-radius: 15px;
+      margin-top: 5px;
+      float: left;
+      background-color:#6e5773;
+    }
+    .imgf:hover{
+      background-color: white;
+    }
+    .txte {
+      width: 200px;
+      height: 110px;
+      border: 1px solid #000;
+      border-radius: 15px;
+      float: left;
+      margin-left: 3px;
+      margin-top: 5px;
+      background-color: #6e5773;
+    }
+    .txte:hover{
+      background-color: white;
+    } 
+    .txtf {
+      width: 200px;
+      height: 110px;
+      border: 1px solid #000;
+      border-radius: 15px;
+      float: left;
+      margin-left: 3px;
+      margin-top: 5px;
+      background-color: #6e5773
+    }
+    .txtf:hover{
+      background-color: white;
+    }
+    .txtg {
+      width: 200px;
+      height: 110px;
+      border: 1px solid #000;
+      border-radius: 15px;
+      float: left;
+      margin-left: 3px;
+      margin-top: 5px;
+      background-color: brown;
+    }
+    .txtg:hover{
+      background-color: white;
+    }
+    .txth {
+      width: 200px;
+      height: 110px;
+      border: 1px solid #000;
+      border-radius: 15px;
+      float: left;
+      margin-left: 3px;
+      margin-top: 5px;
+      background-color: brown;
+    }
+    .txth:hover{
+      background-color: white;
+    }
+
+    .imgg{
+      width: 110px;
+      height: 110px;
+      border: 1px solid #000;
+      margin-left: 5px;
+      border-radius: 15px;
+      margin-top: 5px;
+      float: left;
+      background-color:brown;
+    }
+    .imgg:hover{
+      background-color: white;
+    }
+    .imgh{
+      width: 110px;
+      height: 110px;
+      border: 1px solid #000;
+      margin-left: 5px;
+      border-radius: 15px;
+      margin-top: 5px;
+      float: left;
+      background-color:brown;
+    }
+    .imgh:hover{
+      background-color: white;
+    }
+    .imgi{
+      width: 110px;
+      height: 110px;
+      border: 1px solid #000;
+      margin-left: 5px;
+      border-radius: 15px;
+      margin-top: 5px;
+      float: left;
+      background-color:#ffd5ab;
+    }
+    .imgi:hover{
+      background-color: white;
+    }
+    .imgj{
+      width: 110px;
+      height: 110px;
+      border: 1px solid #000;
+      margin-left: 5px;
+      border-radius: 15px;
+      margin-top: 5px;
+      float: left;
+      background-color:#ffd5ab;
+    }
+    .imgj:hover{
+      background-color: white;
+    }
+    .txti {
+      width: 200px;
+      height: 110px;
+      border: 1px solid #000;
+      border-radius: 15px;
+      float: left;
+      margin-left: 3px;
+      margin-top: 5px;
+      background-color: #ffd5ab;
+    }
+    .txti:hover{
+      background-color: white;
+    }
+    .txtj {
+      width: 200px;
+      height: 110px;
+      border: 1px solid #000;
+      border-radius: 15px;
+      float: left;
+      margin-left: 3px;
+      margin-top: 5px;
+      background-color:#ffd5ab;
+    }
+    .txtj:hover{
+      background-color: white;
+    }
+  
